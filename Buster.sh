@@ -96,6 +96,7 @@ printf "***************\n"
 printf "*********************************************************\n\n"
 printf $NORMAL  
 
+print "Hello I have added some lines here"
 
 printf "Kindly Choose your Need "
 printf $RED
