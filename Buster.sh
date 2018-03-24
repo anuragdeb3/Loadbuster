@@ -54,7 +54,6 @@ read choice
 
 ExitTool(){
 
-print "we are exiting from the execution ------"
 exit
 }
 
@@ -97,8 +96,6 @@ printf $YELLOW
 printf "***************\n"
 printf "*********************************************************\n\n"
 printf $NORMAL  
-
-print "Hello I have added some lines here"
 
 printf "Kindly Choose your Need "
 printf $RED
