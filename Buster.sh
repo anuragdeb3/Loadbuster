@@ -53,6 +53,8 @@ read choice
 
 
 ExitTool(){
+
+print "we are exiting from the execution"
 exit
 }
 
